@@ -11,3 +11,5 @@ catch_coords.py helps you to track your mouse X and Y on your screen and insert 
 
 
 Simple purpose of this program to convert data from picture of app and convert it to usable info through telegram bot, also it supports daily graph (picture) sending through bot.  
+
+P.S. First project
