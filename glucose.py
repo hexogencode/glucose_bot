@@ -43,7 +43,6 @@ def glucose_check():
 
     return num
 
-glucose_check()
 
 def send_daily_graph():
     filename = 'Graph.png'
